@@ -29,4 +29,7 @@ nav ul li a{
     text-decoration: none;
 
 }
-mama this is new
+main{
+    display: grid;
+    place-items: center;
+}
