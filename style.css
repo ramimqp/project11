@@ -28,10 +28,8 @@ nav ul li a:hover{
     color: black;
     transition: .5s;
     font-size: 26px;
-    display: block;
 }
 nav ul li a{
-    /* transition: .12s; */
     color: wheat;
     text-decoration: none;
 
