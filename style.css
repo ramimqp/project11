@@ -74,8 +74,12 @@ nav ul li a{
 .main2 .img{
     width: 600px;
     /* border: 2px solid white; */
-    padding: 20px;
-    margin-left: 53%;
+    /* padding: 20px; */
+    /* margin-left: 53%; */
+    display: grid;
+    margin: auto ;
+    /* place-content: center; */
+    /* place-items: center; */
 }
 footer{
     
@@ -84,4 +88,7 @@ footer{
     background-color: #333;
     color: white;
     height: 20vh;
+}
+.main2{
+    border: 6px solid red;
 }
